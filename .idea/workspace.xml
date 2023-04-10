@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="616096e5-689c-4f3c-8d09-238723eff558" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_commons_1_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_observation_1_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_10_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_10_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_10_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_4_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_record_codec_4_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_4_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_sync_4_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_6_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_6_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_6_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_6_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_6_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_6_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_6_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_6_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_6_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VotersApplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/controllers/PartyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/data/models/Party.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/data/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/data/repositories/PartyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/data/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/dtos/requests/CastVoteRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/dtos/requests/PartyRegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/dtos/requests/VoterLoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/dtos/requests/VotersRegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/dtos/responses/FindPartyResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/dtos/responses/FindVoterResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/dtos/responses/UserRegisterResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/dtos/responses/VoterLoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/exceptions/UserExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/exceptions/VoterNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/services/PartyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/services/PartyServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/services/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/semicolon/africa/votersApplication/utils/Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/controllers/PartyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/controllers/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/data/models/Party.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/data/models/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/data/repositories/PartyRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/data/repositories/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/dtos/requests/CastVoteRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/dtos/requests/PartyRegisterRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/dtos/requests/VoterLoginRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/dtos/requests/VotersRegisterRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/dtos/responses/FindPartyResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/dtos/responses/FindVoterResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/dtos/responses/UserRegisterResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/dtos/responses/VoterLoginResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/exceptions/UserExistsException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/exceptions/VoterNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/services/PartyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/services/PartyServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/services/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/services/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/semicolon/africa/votersApplication/utils/Mapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/data/repositories/AdminRepositoryImplTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MXPNvPWEK78IXNUWuRYrGQYDFl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.updates",
+    "spring.configuration.checksum": "59a77fa003edcdd8e795a4e7fc021cb2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="data.repositories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Main">
+    <configuration name="AdminRepositoryImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VotersApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.AdminRepositoryImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminRepositoryImplTest.testThatYouCanSaveOneAdminAndCountIsOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VotersApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.AdminRepositoryImplTest" />
+      <option name="METHOD_NAME" value="testThatYouCanSaveOneAdminAndCountIsOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminRepositoryImplTest.testThatYouCanSaveTwoAdminsAndDeleteOneAndCountIsOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VotersApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.AdminRepositoryImplTest" />
+      <option name="METHOD_NAME" value="testThatYouCanSaveTwoAdminsAndDeleteOneAndCountIsOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminRepositoryImplTest.testThatYouCanSaveTwoElectionsAndDeleteTwoAndCountIsZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VotersApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.AdminRepositoryImplTest" />
+      <option name="METHOD_NAME" value="testThatYouCanSaveTwoElectionsAndDeleteTwoAndCountIsZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="VotersApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.semicolon.africa.votersApplication.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Main" />
+        <item itemvalue="JUnit.AdminRepositoryImplTest.testThatYouCanSaveOneAdminAndCountIsOne" />
+        <item itemvalue="JUnit.AdminRepositoryImplTest" />
+        <item itemvalue="JUnit.AdminRepositoryImplTest.testThatYouCanSaveTwoElectionsAndDeleteTwoAndCountIsZero" />
+        <item itemvalue="JUnit.AdminRepositoryImplTest.testThatYouCanSaveTwoAdminsAndDeleteOneAndCountIsOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="616096e5-689c-4f3c-8d09-238723eff558" name="Changes" comment="" />
+      <created>1677910918559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677910918559</updated>
+      <workItem from="1677910920450" duration="997000" />
+      <workItem from="1678031535172" duration="354000" />
+      <workItem from="1678047477332" duration="1934000" />
+      <workItem from="1678086296807" duration="1657000" />
+      <workItem from="1678092792049" duration="1121000" />
+      <workItem from="1678258371179" duration="458000" />
+      <workItem from="1678259095135" duration="6346000" />
+      <workItem from="1678303593386" duration="689000" />
+      <workItem from="1678305455660" duration="146000" />
+      <workItem from="1678305629689" duration="67000" />
+      <workItem from="1678305733067" duration="127000" />
+      <workItem from="1678305891500" duration="2809000" />
+      <workItem from="1678309486580" duration="1494000" />
+      <workItem from="1678344617610" duration="10556000" />
+      <workItem from="1678384500813" duration="1154000" />
+      <workItem from="1678385702687" duration="158000" />
+      <workItem from="1678385922660" duration="1149000" />
+      <workItem from="1678387133114" duration="8000" />
+      <workItem from="1678387151914" duration="2482000" />
+      <workItem from="1678389775956" duration="482000" />
+      <workItem from="1678433525330" duration="389000" />
+      <workItem from="1678433979819" duration="1127000" />
+      <workItem from="1678771888181" duration="10119000" />
+      <workItem from="1678789773705" duration="133000" />
+      <workItem from="1678789938102" duration="1205000" />
+      <workItem from="1678947652849" duration="575000" />
+      <workItem from="1678948255936" duration="149000" />
+      <workItem from="1678948500153" duration="616000" />
+      <workItem from="1678949151576" duration="1957000" />
+      <workItem from="1679008945780" duration="6450000" />
+      <workItem from="1679131488921" duration="216000" />
+      <workItem from="1679131747565" duration="1394000" />
+      <workItem from="1679133329320" duration="1838000" />
+      <workItem from="1679136465002" duration="643000" />
+      <workItem from="1679137160457" duration="5325000" />
+      <workItem from="1679148788731" duration="8174000" />
+      <workItem from="1679179077919" duration="23000" />
+      <workItem from="1679245596684" duration="1348000" />
+      <workItem from="1679249707634" duration="35000" />
+      <workItem from="1679249775454" duration="123000" />
+      <workItem from="1679250038615" duration="712000" />
+      <workItem from="1679293830563" duration="26000" />
+      <workItem from="1679329085430" duration="5292000" />
+      <workItem from="1679516839037" duration="655000" />
+      <workItem from="1679614811777" duration="11000" />
+      <workItem from="1679643183952" duration="510000" />
+      <workItem from="1679647143080" duration="630000" />
+      <workItem from="1679647816352" duration="79000" />
+      <workItem from="1679648065128" duration="10617000" />
+      <workItem from="1680044158671" duration="653000" />
+      <workItem from="1680634418436" duration="54000" />
+      <workItem from="1680884075377" duration="602000" />
+      <workItem from="1681124781801" duration="538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
